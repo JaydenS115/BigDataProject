@@ -1,0 +1,326 @@
+Region,Country,State,City
+North America,US,Iowa,Des Moines
+North America,US,Illinois,Peoria
+Africa,Algeria,,Algiers
+Africa,South Africa,,Capetown
+North America,US,Alabama,Mobile
+Africa,Kenya,,Nairobi
+Africa,Guinea,,Conakry
+Africa,Burundi,,Bujumbura
+Asia,Japan,,Osaka
+Europe,Portugal,,Lisbon
+Africa,Gambia,,Banjul
+North America,US,Arizona,Tucson
+Africa,Egypt,,Cairo
+South/Central America & Carribean,Equador,,Guayaquil
+Africa,Benin,,Cotonou
+North America,US,Oregon,Salem
+South/Central America & Carribean,Guatemala,,Guatemala City
+Africa,Ethiopia,,Addis Ababa
+Africa,Central African Republic,,Bangui
+Africa,Congo,,Brazzaville
+Asia,China,,Shenyang
+North America,US,New York,Albany
+Africa,Gabon,,Libreville
+North America,Mexico,,Mexico City
+Asia,India,,Chennai (Madras)
+Asia,Hong Kong,,Hong Kong
+Asia,Bangladesh,,Dhaka
+Africa,Guinea-Bissau,,Bissau
+North America,US,South Dakota,Sioux Falls
+Africa,Senegal,,Dakar
+Africa,Tanzania,,Dar Es Salaam
+North America,US,Pennsylvania,Philadelphia
+North America,US,Maryland,Baltimore
+Africa,Ivory Coast,,Abidjan
+Africa,Morocco,,Rabat
+Africa,Madagascar,,Antananarivo
+Africa,Mauritania,,Nouakchott
+Middle East,Oman,,Muscat
+Asia,Singapore,,Singapore
+South/Central America & Carribean,Honduras,,Tegucigalpa
+Africa,Malawi,,Lilongwe
+North America,US,New Hampshire,Concord
+Europe,Belgium,,Brussels
+Asia,Malaysia,,Kuala Lumpur
+Africa,Mozambique,,Maputo
+Africa,Namibia,,Windhoek
+Asia,Uzbekistan,,Tashkent
+Asia,Taiwan,,Taipei
+Africa,Nigeria,,Niamey
+Africa,Tunisia,,Tunis
+Africa,Nigeria,,Lagos
+Asia,Turkmenistan,,Ashabad
+Africa,Sierra Leone,,Freetown
+North America,US,Texas,Midland Odessa
+Europe,Iceland,,Reykjavik
+Africa,Togo,,Lome
+Asia,North Korea,,Pyongyang
+Africa,Uganda,,Kampala
+Africa,Zambia,,Lusaka
+North America,US,South Dakota,Rapid City
+Asia,China,,Beijing
+Asia,China,,Chengdu
+Asia,Pakistan,,Islamabad
+Asia,India,,Delhi
+Asia,China,,Guangzhou
+North America,US,North Carolina,Raleigh Durham
+Asia,China,,Shanghai
+Asia,India,,Bombay (Mumbai)
+Asia,Kazakhstan,,Almaty
+Asia,Japan,,Tokyo
+Asia,India,,Calcutta
+Asia,Japan,,Sapporo
+North America,Canada,,Vancouver
+Asia,Sri Lanka,,Colombo
+Asia,Indonesia,,Jakarta
+North America,US,North Dakota,Fargo
+Asia,Kyrgyzstan,,Bishkek
+Europe,Ukraine,,Kiev
+Asia,Laos,,Vientiane
+North America,US,Kentucky,Lexington
+Asia,Mongolia,,Ulan-bator
+Asia,South Korea,,Seoul
+Asia,Myanmar (Burma),,Rangoon
+Asia,Vietnam,,Hanoi
+North America,US,Nebraska,Lincoln
+Asia,Nepal,,Katmandu
+Asia,Pakistan,,Karachi
+Asia,Philippines,,Manila
+Asia,Tajikistan,,Dusanbe
+North America,US,Oklahoma,Tulsa
+Asia,Thailand,,Bangkok
+Australia/South Pacific,Australia,,Brisbane
+Australia/South Pacific,Australia,,Canberra
+North America,US,Texas,Abilene
+Australia/South Pacific,Australia,,Melbourne
+Middle East,Bahrain,,Manama
+Australia/South Pacific,Australia,,Perth
+North America,US,New York,Rochester
+Australia/South Pacific,Australia,,Sydney
+Australia/South Pacific,New Zealand,,Auckland
+Europe,Albania,,Tirana
+North America,US,Florida,West Palm Beach
+Europe,Austria,,Vienna
+Europe,Belarus,,Minsk
+Europe,Bulgaria,,Sofia
+North America,US,Additional Territories,San Juan Puerto Rico
+Europe,Croatia,,Zagreb
+Europe,Cyprus,,Nicosia
+Europe,Czech Republic,,Prague
+North America,US,Hawaii,Honolulu
+Europe,Denmark,,Copenhagen
+North America,Mexico,,Monterrey
+Middle East,Saudi Arabia,,Riyadh
+Europe,Finland,,Helsinki
+Europe,France,,Paris
+North America,US,Tennessee,Nashville
+Europe,France,,Bordeaux
+Europe,Germany,,Bonn
+Europe,Germany,,Frankfurt
+Europe,Germany,,Hamburg
+Europe,Germany,,Munich
+Europe,Georgia,,Tbilisi
+North America,US,Texas,Lubbock
+Europe,Greece,,Athens
+Europe,Hungary,,Budapest
+North America,US,Michigan,Lansing
+Europe,Ireland,,Dublin
+Europe,Italy,,Milan
+North America,US,North Dakota,Bismarck
+Europe,Italy,,Rome
+Europe,Latvia,,Riga
+Europe,Switzerland,,Geneva
+Europe,Macedonia,,Skopje
+Europe,The Netherlands,,Amsterdam
+Europe,Norway,,Oslo
+Europe,Poland,,Warsaw
+North America,US,Texas,San Antonio
+South/Central America & Carribean,Cuba,,Havana
+Europe,Romania,,Bucharest
+Europe,Russia,,Moscow
+Europe,Russia,,Yerevan
+Europe,Serbia-Montenegro,,Pristina
+Europe,Slovakia,,Bratislava
+North America,US,Nevada,Reno
+Europe,Spain,,Barcelona
+North America,US,North Carolina,Asheville
+Europe,Spain,,Bilbao
+Europe,Spain,,Madrid
+Europe,Switzerland,,Bern
+Europe,Sweden,,Stockholm
+Europe,Switzerland,,Zurich
+Europe,United Kingdom,,Belfast
+North America,US,Texas,Austin
+Europe,United Kingdom,,London
+South/Central America & Carribean,Colombia,,Bogota
+Europe,Yugoslavia,,Belgrade
+North America,US,Florida,Tallahassee
+Middle East,Israel,,Tel Aviv
+North America,US,New Jersey,Atlantic City
+North America,US,Alaska,Anchorage
+Middle East,Jordan,,Amman
+Middle East,Kuwait,,Kuwait
+Middle East,Lebanon,,Beirut
+Middle East,Qatar,,Doha
+Middle East,Saudi Arabia,,Dhahran
+North America,US,Virginia,Norfolk
+South/Central America & Carribean,Nicaragua,,Managua
+Middle East,Syria,,Damascus
+South/Central America & Carribean,Bolivia,,La Paz
+Middle East,Turkey,,Ankara
+North America,US,West Virginia,Charleston
+South/Central America & Carribean,Bahamas,,Nassau
+Middle East,Turkey,,Istanbul
+Middle East,United Arab Emirates,,Abu Dhabi
+Middle East,United Arab Emirates,,Dubai
+North America,US,Texas,Houston
+North America,Canada,,Calgary
+North America,US,Georgia,Savannah
+North America,Canada,,Edmonton
+North America,Canada,,Halifax
+North America,Canada,,Montreal
+North America,US,South Carolina,Columbia
+North America,Canada,,Ottawa
+South/Central America & Carribean,Bermuda,,Hamilton
+North America,Canada,,Quebec
+North America,US,Kentucky,Paducah
+North America,Canada,,Regina
+North America,US,Louisiana,Baton Rouge
+North America,Canada,,Toronto
+North America,US,Missouri,Kansas City
+North America,Canada,,Winnipeg
+North America,Mexico,,Guadalajara
+South/Central America & Carribean,Argentina,,Buenos Aires
+North America,US,Nebraska,North Platte
+South/Central America & Carribean,Belize,,Belize City
+South/Central America & Carribean,Barbados,,Bridgetown
+South/Central America & Carribean,Brazil,,Brasilia
+North America,US,Rhode Island,Rhode Island
+South/Central America & Carribean,Brazil,,Rio de Janeiro
+South/Central America & Carribean,Brazil,,Sao Paulo
+South/Central America & Carribean,Costa Rica,,San Jose
+North America,US,Michigan,Sault Ste Marie
+South/Central America & Carribean,Dominican Republic,,Santo Domingo
+South/Central America & Carribean,Equador,,Quito
+South/Central America & Carribean,Guyana,,Georgetown
+North America,US,Georgia,Columbus
+South/Central America & Carribean,Haiti,,Port au Prince
+South/Central America & Carribean,Panama,,Panama City
+North America,US,Ohio,Toledo
+South/Central America & Carribean,Peru,,Lima
+South/Central America & Carribean,Suriname,,Paramaribo
+South/Central America & Carribean,Uruguay,,Montvideo
+South/Central America & Carribean,Venezuela,,Caracas
+North America,US,Alabama,Birmingham
+North America,US,Alabama,Huntsville
+North America,US,Alabama,Montgomery
+North America,US,Colorado,Pueblo
+North America,US,Alaska,Fairbanks
+North America,US,Maryland,Washington DC
+North America,US,Alaska,Juneau
+North America,US,Arizona,Flagstaff
+North America,US,Arizona,Phoenix
+North America,US,Arizona,Yuma
+North America,US,Arkansas,Fort Smith
+North America,US,Arkansas,Little Rock
+North America,US,California,Fresno
+North America,US,California,Los Angeles
+North America,US,California,Sacramento
+North America,US,California,San Diego
+North America,US,Mississippi,Jackson
+North America,US,California,San Francisco
+North America,US,Florida,Orlando
+North America,US,Colorado,Colorado Springs
+North America,US,Louisiana,Shreveport
+North America,US,Colorado,Denver
+North America,US,Colorado,Grand Junction
+North America,US,Connecticut,Bridgeport
+North America,US,Connecticut,Hartford Springfield
+North America,US,Delaware,Wilmington
+North America,US,Pennsylvania,Harrisburg
+North America,US,District of Columbia,Washington
+North America,US,Florida,Daytona Beach
+North America,US,Ohio,Youngstown
+North America,US,Florida,Jacksonville
+North America,US,Florida,Miami Beach
+North America,US,Florida,Tampa St. Petersburg
+North America,US,Georgia,Atlanta
+North America,US,Washington,Seattle
+North America,US,Georgia,Macon
+North America,US,Ohio,Akron Canton
+North America,US,Idaho,Boise
+North America,US,Illinois,Springfield
+North America,US,Idaho,Pocatello
+North America,US,Illinois,Chicago
+North America,US,South Carolina,Charleston
+North America,US,Oregon,Eugene
+North America,US,Montana,Great Falls
+North America,US,Illinois,Rockford
+North America,US,Indiana,Evansville
+North America,US,Indiana,Fort Wayne
+North America,US,Indiana,Indianapolis
+North America,US,Indiana,South Bend
+North America,US,Iowa,Sioux City
+North America,US,Kansas,Goodland
+North America,US,Kansas,Topeka
+North America,US,Kansas,Wichita
+North America,US,Kentucky,Louisville
+North America,US,Louisiana,Lake Charles
+North America,US,Louisiana,New Orleans
+North America,US,Maine,Caribou
+North America,US,Maine,Portland
+North America,US,Massachusetts,Boston
+North America,US,Nevada,Las Vegas
+North America,US,Michigan,Detroit
+North America,US,Michigan,Flint
+North America,US,Michigan,Grand Rapids
+North America,US,Minnesota,Duluth
+North America,US,Minnesota,Minneapolis St. Paul
+North America,US,Mississippi,Tupelo
+North America,US,Missouri,Springfield
+North America,US,Missouri,St Louis
+North America,US,Montana,Billings
+North America,US,Montana,Helena
+North America,US,Nebraska,Omaha
+North America,US,New Jersey,Newark
+North America,US,New Mexico,Albuquerque
+North America,US,Tennessee,Knoxville
+North America,US,New York,Buffalo
+North America,US,Ohio,Cleveland
+North America,US,New York,New York City
+North America,US,New York,Syracuse
+North America,US,North Carolina,Charlotte
+North America,US,North Carolina,Greensboro
+North America,US,Ohio,Cincinnati
+North America,US,Ohio,Columbus
+North America,US,Ohio,Dayton
+North America,US,Oklahoma,Oklahoma City
+North America,US,Oregon,Medford
+North America,US,Oregon,Portland
+North America,US,Pennsylvania,Allentown
+North America,US,Pennsylvania,Erie
+North America,US,Pennsylvania,Pittsburgh
+North America,US,Pennsylvania,Wilkes Barre
+North America,US,Tennessee,Chattanooga
+North America,US,Tennessee,Memphis
+North America,US,Texas,Amarillo
+North America,US,Texas,Brownsville
+North America,US,Texas,Corpus Christi
+North America,US,Texas,Dallas Ft Worth
+North America,US,Texas,El Paso
+North America,US,Texas,San Angelo
+North America,US,Texas,Waco
+North America,US,Texas,Wichita Falls
+North America,US,Utah,Salt Lake City
+North America,US,Vermont,Burlington
+North America,US,Virginia,Richmond
+North America,US,Virginia,Roanoke
+North America,US,Washington,Spokane
+North America,US,Washington,Yakima
+North America,US,West Virginia,Elkins
+North America,US,Wisconsin,Green Bay
+North America,US,Wisconsin,Madison
+North America,US,Wisconsin,Milwaukee
+North America,US,Wyoming,Casper
+North America,US,Wyoming,Cheyenne
