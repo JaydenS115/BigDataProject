@@ -1,5 +1,5 @@
 # Spatio-temporal Approximation: Interpolation and Extrapolation Queries on Climate Data #
-**CS-43016: Big Data Analytics - Final Project Report, Presentation, & Implementation**
+**CS-43016: Big Data Analytics - Final Project Report, Presentation, & Implementation - Spring 2022**
 
 **Undergraduate Group 8:**
  * Kayla Carter
