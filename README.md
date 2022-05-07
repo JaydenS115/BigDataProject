@@ -18,12 +18,13 @@ Full project report, including a detailed review of Project Description, Propose
 Abridged overview of project report, including visual presentation.
 
 ### Code ###
- * Parser: "Code/WeatherData_Parser.cpp" - Produces Parsed dataset from Source dataset
+ * Parser: "Code/WeatherData_Parser.cpp" - Produces Parsed dataset and list of all locations from Source dataset
  * Sorter: "Code/WeatherData_Sorter.cpp" - Produces Sorted dataset and Sorted-Split dataset from Parsed dataset
 
 ### Datasets ###
  * Source Data: "Datasets/city_temperature.zip"
  * Parsed Data: "Datasets/weatherData_Parsed.zip"
+ * Location Data: "Datasets/locationsList.csv"
  * Sorted Data: "Datasets/weatherData_Sorted.zip"
  * Split Data: "Datasets/weatherData_Sorted_Split.csv"
     * Sorted data with attributes 1 & 2 split into separate sequences.
